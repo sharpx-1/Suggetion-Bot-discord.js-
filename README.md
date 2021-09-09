@@ -2,7 +2,7 @@ Auto Suggestion Setup Channel
 
 Χρειάζεστε το ``node.js`` και το ``Visual Studio Code``
 
-##1o Βήμα:
+## 1o Βήμα:
 
 - Δημιουργείτε έναν φάκελο και βάζετε τα αρχεία μέσα!
 
