@@ -1,5 +1,4 @@
 Auto Suggestion Setup Channel
-
 Χρειάζεστε το ``node.js`` και το ``Visual Studio Code``
 
 ## 1st Step:
