@@ -32,4 +32,4 @@ You need `` node.js`` and `` Visual Studio Code``
 
 ## Ready!
 
-If you have any questions or problems, please contact .shàrpx # 3128 at Discord.
+If you have any questions or problems, please contact .shàrpx#3128 at Discord.
